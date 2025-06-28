@@ -1,0 +1,23 @@
+{
+  "task": "Write a clear, motivating call to action at the end of the newsletter.",
+  "task_goal": "Invite the reader to check out the Microsoft 365 Productivity Masterclass.",
+  "example": "Want more practical tips like this? Join the Microsoft 365 Productivity Masterclass and take your digital workflow to the next level. http://m365coaching.com/",
+  "task_input": {
+    "newsletter_text_solution": "{{ $json.output.newsletter.newsletter_text_solution }}"
+  },
+  "output_format": {
+    "input": {
+      "id": "{{ $json.output.input.id }}",
+      "content": "{{ $json.output.input.content }}"
+    },
+    "newsletter": {
+      "newsletter_cta": "1 short paragraph, friendly tone, no hype. End with the link to the  Microsoft 365 Productivity Masterclass."
+    }
+  },
+  "instructions": [
+    "Restate the main benefit of the newsletter in a friendly, motivating way",
+    "Use 1–2 sentences to show why the reader should act now",
+    "Include a CTA that fits the chosen goal, ending with a link placeholder",
+    "Write in a conversational and encouraging tone. Avoid hype or fluff"
+  ]
+}

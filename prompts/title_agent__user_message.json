@@ -1,0 +1,27 @@
+{
+  "task": "Write a newsletter subject line based on the information from task_input",
+  "task_input": {
+    "content": "{{ $json.output.input.content }}",
+    "topic_summary": "{{ $json.output.research.topic_summary }}",
+    "audience_challenge": "{{ $json.output.research.audience_challenge }}",
+    "relevant_tools": "{{ $json.output.research.relevant_tools }}",
+    "title_angles": "{{ $json.output.research.title_angles }}",
+    "related_pain_points": "{{ $json.output.research.related_pain_points }}"
+    }
+  }
+  "output_format": {
+    "input": {
+      "id": "{{ $json.output.input.id }}",
+      "content": "{{ $json.output.input.content }}"
+    },
+    "newsletter": {
+      "newsletter_title": "newsletter subject line"
+    }
+  },
+  "rules": [
+    "Keep it under 50 characters",
+    "Use the Curiosity Gap technique to hint at the value without giving everything away"
+    "Address a real pain point or desire of the target audience"
+    "Return only one subject line"
+  ]
+}

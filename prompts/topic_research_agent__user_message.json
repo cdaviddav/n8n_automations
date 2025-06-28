@@ -1,0 +1,21 @@
+{
+  "task": "Research the following topic for use in a productivity newsletter",
+  "task_input": "{{ $json.chatInput }}",
+  "output_format": {
+    "input": {
+      "id": "{{ $json.sessionId }}",
+      "content": "{{ $json.chatInput }}"
+      },
+    "research": {
+      "topic_summary": "Brief explanation of what the topic is about and why it matters",
+      "audience_challenge": "What common frustration or outcome the target reader experiences related to this topic",
+      "relevant_tools": "List of Microsoft 365 tools that apply (e.g. OneNote, Planner, etc.)",
+      "title_angles": "3 subject line ideas using curiosity or pain-point framing",
+      "related_pain_points": "Up to 3 bullet points of closely related frustrations, inefficiencies, or symptoms"
+      }
+  },
+  "rules": [
+    "Keep the tone clear, simple, and aligned with real-world usage"
+    "Return the result as JSON"
+  ]
+}

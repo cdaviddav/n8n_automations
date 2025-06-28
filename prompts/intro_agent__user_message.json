@@ -1,0 +1,25 @@
+{
+  "task": "Write the introduction for a newsletter based on the information from task_input",
+  "task_input": {
+    "content": "{{ $json.output.input.content }}",
+    "topic_summary": "{{ $json.output.research.topic_summary }}",
+    "audience_challenge": "{{ $json.output.research.audience_challenge }}",
+    "relevant_tools": "{{ $json.output.research.relevant_tools }}",
+    "title_angles": "{{ $json.output.research.title_angles }}",
+    "related_pain_points": "{{ $json.output.research.related_pain_points }}"
+  },
+  "output_format": {
+    "input": {
+      "id": "{{ $json.output.input.id }}",
+      "content": "{{ $json.output.input.content }}"
+    },
+    "newsletter": {
+      "newsletter_introduction": "introduction for a newsletter"
+    }
+  },
+  "structure": [
+    "Start with a bold statement or question that reflects a pain point or challenge",
+    "Add a short relatable story, anecdote, or real-world scenario that ties into the topicy"
+    "End by foreshadowing what the reader will learn or gain by reading the full email"
+  ]
+}

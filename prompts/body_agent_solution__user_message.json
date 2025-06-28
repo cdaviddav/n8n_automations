@@ -1,0 +1,27 @@
+{
+  "task": "Write the third and final body section of the newsletter. Focus on offering a practical solution that helps the reader resolve the problem described earlier. Use Microsoft 365 tools or workflows where appropriate.",
+  "task_input": {
+    "content": "{{ $json.output.input.content }}",
+    "topic_summary": "{{ $json.output.research.topic_summary }}",
+    "audience_challenge": "{{ $json.output.research.audience_challenge }}",
+    "relevant_tools": "{{ $json.output.research.relevant_tools }}",
+    "title_angles": "{{ $json.output.research.title_angles }}",
+    "related_pain_points": "{{ $json.output.research.related_pain_points }}"
+  },
+  "output_format": {
+    "input": {
+      "id": "{{ $json.output.input.id }}",
+      "content": "{{ $json.output.input.content }}"
+    },
+    "newsletter": {
+      "newsletter_text_solution": "Formatted sections with H2 or bolded titles and short, scannable paragraphs"
+    }
+  },
+  "instructions": [
+    "Write 3–5 short paragraphs",
+    "Offer a clear and easy-to-apply approach, tip, or method",
+    "Refer to Microsoft 365 tools (e.g., To Do for task capture, OneNote for planning)",
+    "End the section by reinforcing the benefit of taking action"
+  ],
+  "information": "There are in total 3 different AI agents that create the body of the newsletter (Challenge Section, Root Cause Section, Solution Section). You are the Solution Section AI agent."
+}

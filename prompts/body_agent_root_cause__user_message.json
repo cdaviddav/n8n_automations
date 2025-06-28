@@ -1,0 +1,27 @@
+{
+  "task": "Write the second body section of the newsletter. Focus on explaining why the challenge from the previous section continues to persist. Include common mistakes, misconceptions, or digital habits that worsen the issue.",
+  "task_input": {
+    "content": "{{ $json.output.input.content }}",
+    "topic_summary": "{{ $json.output.research.topic_summary }}",
+    "audience_challenge": "{{ $json.output.research.audience_challenge }}",
+    "relevant_tools": "{{ $json.output.research.relevant_tools }}",
+    "title_angles": "{{ $json.output.research.title_angles }}",
+    "related_pain_points": "{{ $json.output.research.related_pain_points }}"
+  },
+  "output_format": {
+    "input": {
+      "id": "{{ $json.output.input.id }}",
+      "content": "{{ $json.output.input.content }}"
+    },
+    "newsletter": {
+      "newsletter_text_root_cause": "Formatted sections with H2 or bolded titles and short, scannable paragraphs"
+    }
+  },
+  "instructions": [
+    "Write 3–5 short paragraphs",
+    "Mention 1–2 root causes that are relatable and realistic",
+    "Refer to Microsoft 365 tools where relevant (e.g., too many task lists across Outlook, Planner, and To Do)",
+    "End the section by hinting that a better approach exists, to lead into the solution section"
+  ],
+  "information": "There are in total 3 different AI agents that create the body of the newsletter (Challenge Section, Root Cause Section, Solution Section). You are the Root Cause Section AI agent."
+}
