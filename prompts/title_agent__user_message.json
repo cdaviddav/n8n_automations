@@ -1,14 +1,14 @@
 {
-  "task": "Write a newsletter subject line based on the information from task_input",
+  "task": "Write a short, high-converting newsletter subject line for a weekly productivity-focused newsletter targeting busy professionals who use Microsoft 365, based on the information from task_input",
   "task_input": {
     "content": "{{ $json.output.input.content }}",
     "topic_summary": "{{ $json.output.research.topic_summary }}",
     "audience_challenge": "{{ $json.output.research.audience_challenge }}",
     "relevant_tools": "{{ $json.output.research.relevant_tools }}",
     "title_angles": "{{ $json.output.research.title_angles }}",
-    "related_pain_points": "{{ $json.output.research.related_pain_points }}"
-    }
-  }
+    "related_pain_points": "{{ $json.output.research.related_pain_points }}",
+    "related_transformation": "{{ $json.output.research.related_transformation }}"
+  },
   "output_format": {
     "input": {
       "id": "{{ $json.output.input.id }}",
@@ -19,9 +19,18 @@
     }
   },
   "rules": [
-    "Keep it under 50 characters",
-    "Use the Curiosity Gap technique to hint at the value without giving everything away"
-    "Address a real pain point or desire of the target audience"
-    "Return only one subject line"
+    "Max 50 characters for mobile readability.",
+    "Use the Curiosity Gap technique to hint at the value without giving everything away.",
+    "Address a real pain point or desire of the target audience.",
+    "Avoid fluff, hype, or clichés like 'work smarter, not harder'.",
+    "Avoid spammy words like 'free', 'win', 'guaranteed'.",
+    "Use natural, real-life language your audience would use.",
+    "Reflect the tone of the newsletter: clear, calm, practical, and human.",
+    "Return only one subject line—short, punchy, and focused.",
+    "Do not use clickbait or vague teaser lines.",
+    "Avoid unnecessary punctuation like exclamation marks or all caps.",
+    "Use verbs and specific language to signal transformation or outcome.",
+    "Whenever possible, tie the subject line to a story or takeaway from the newsletter.",
+    "If relevant, mirror the phrasing of high-performing YouTube video titles or headlines used in the past."
   ]
 }

@@ -6,7 +6,8 @@
     "audience_challenge": "{{ $json.output.research.audience_challenge }}",
     "relevant_tools": "{{ $json.output.research.relevant_tools }}",
     "title_angles": "{{ $json.output.research.title_angles }}",
-    "related_pain_points": "{{ $json.output.research.related_pain_points }}"
+    "related_pain_points": "{{ $json.output.research.related_pain_points }}",
+    "related_transformation": "{{ $json.output.research.related_transformation }}"
   },
   "output_format": {
     "input": {
@@ -18,8 +19,8 @@
     }
   },
   "structure": [
-    "Start with a bold statement or question that reflects a pain point or challenge",
-    "Add a short relatable story, anecdote, or real-world scenario that ties into the topicy"
-    "End by foreshadowing what the reader will learn or gain by reading the full email"
+    "Start with a bold statement, question, or emotionally resonant observation that reflects a specific pain point, insight, or curiosity gap your reader will immediately recognize.",
+    "Follow with a short, relatable anecdote, real-world scenario, or moment of empathy that shows you understand their experience and makes the email feel personal and grounded.",
+    "End with a clear and compelling bridge: hint at what’s coming next (a solution, tip, framework, or surprising result) to give the reader a strong reason to keep reading."
   ]
 }

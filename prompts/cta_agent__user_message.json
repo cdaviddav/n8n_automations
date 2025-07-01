@@ -1,7 +1,7 @@
 {
-  "task": "Write a clear, motivating call to action at the end of the newsletter.",
-  "task_goal": "Invite the reader to check out the Microsoft 365 Productivity Masterclass.",
-  "example": "Want more practical tips like this? Join the Microsoft 365 Productivity Masterclass and take your digital workflow to the next level. http://m365coaching.com/",
+  "task": "Write a clear, motivating call to action for the end of the newsletter. The CTA should always promote the Microsoft 365 Productivity Masterclass. It must appear in a P.S. and be naturally connected to the topic of the newsletter (e.g. Teams, Outlook, OneNote).",
+  "task_goal": "Help the reader see the Masterclass as the next logical step to build on what they just learned. Make the CTA short, calm, and topic-specific—framed as a helpful next step, not a sales pitch.",
+  "example": "P.S. Want to organize your Outlook in a way that actually works? The Microsoft 365 Productivity Masterclass gives you the full setup—calendar, email triage, and task capture, all streamlined. [Join here →]",
   "task_input": {
     "newsletter_text_solution": "{{ $json.output.newsletter.newsletter_text_solution }}"
   },
@@ -11,13 +11,15 @@
       "content": "{{ $json.output.input.content }}"
     },
     "newsletter": {
-      "newsletter_cta": "1 short paragraph, friendly tone, no hype. End with the link to the  Microsoft 365 Productivity Masterclass."
+      "newsletter_cta": "A single P.S. paragraph (1–2 short sentences max), informal and clear, ending with the link to the Microsoft 365 Productivity Masterclass"
     }
   },
   "instructions": [
-    "Restate the main benefit of the newsletter in a friendly, motivating way",
-    "Use 1–2 sentences to show why the reader should act now",
-    "Include a CTA that fits the chosen goal, ending with a link placeholder",
-    "Write in a conversational and encouraging tone. Avoid hype or fluff"
+    "Write the CTA as a P.S. at the end of the newsletter",
+    "Connect the call to action to the tool or topic discussed (if identifiable)",
+    "Make the course feel like the next logical step—not a generic promotion",
+    "Use a calm, confident, and conversational tone",
+    "Avoid hype, urgency tricks, or filler phrases",
+    "Keep it to 1–2 sentences max and end with the course link"
   ]
 }

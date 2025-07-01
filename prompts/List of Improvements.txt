@@ -1,0 +1,8 @@
+Things to improve in prompts: 
+1. one central json with target audience/customer persona
+2. title_agent_system_message:
+	-provide example titles 
+	- TBD if this is so helpful 
+3. include json with background of Lea David (for storytelling) --> reference in title, intro, and body
+
+

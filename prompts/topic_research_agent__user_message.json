@@ -11,11 +11,12 @@
       "audience_challenge": "What common frustration or outcome the target reader experiences related to this topic",
       "relevant_tools": "List of Microsoft 365 tools that apply (e.g. OneNote, Planner, etc.)",
       "title_angles": "3 subject line ideas using curiosity or pain-point framing",
-      "related_pain_points": "Up to 3 bullet points of closely related frustrations, inefficiencies, or symptoms"
+      "related_pain_points": "Up to 3 bullet points of closely related frustrations, inefficiencies, or symptoms",
+	    "related_transformation": "Up to 3 bullet points describing the transformation, solution, or relief the reader is hoping for based on their frustration"
       }
   },
   "rules": [
-    "Keep the tone clear, simple, and aligned with real-world usage"
+    "Keep the tone clear, simple, and aligned with real-world usage",
     "Return the result as JSON"
   ]
 }
