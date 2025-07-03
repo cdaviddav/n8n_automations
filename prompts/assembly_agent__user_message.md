@@ -6,17 +6,7 @@ Use the following structure:
 
 {{ $json.newsletter_introduction }}
 
-## The Challenge
-
-{{ $json.newsletter_text_callenge }}
-
-## Why This Happens
-
-{{ $json.newsletter_text_root_cause }}
-
-## The Fix
-
-{{ $json.newsletter_text_solution }}
+{{ $json.newsletter_text_body }}
 
 ---
 

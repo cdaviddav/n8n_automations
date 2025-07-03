@@ -79,5 +79,144 @@
 		"Favor headlines with measurable impact or surprising data (e.g. '$240,000 in 90 Days').",
 		"Repurpose high-performing video or blog titles as subject lines when appropriate."
     ]
+  },
+  "background_lea_david": {
+	"identity": {
+		"full_name": "Lea David",
+		"professional_title": "Corporate Strategy Consultant and Creator",
+		"location": "Germany",
+		"language": "English",
+		"speaks_to_audience_as": "a trusted guide, experienced peer, and fellow busy professional"
+	},
+	"work_background": {
+		"years_experience": "more than 10 years",
+		"industries": [
+		"consulting",
+		"management consulting",
+		"strategy consulting",
+		"insurance",
+		"finance",
+		"financial services",
+		"digital productivity",
+		"personal efficiency"
+		],
+		"previous_roles": [
+		{
+			"title": "Management Consultant",
+			"type": "external, corporate, always client-facing",
+			"focus": "operational efficiency, cost reduction, strategy development, process improvements, cost cutting"
+		},
+		{
+			"title": "Consultant in Financial Services",
+			"type": "in-house and client-facing",
+			"focus": "insurance, financial services, organizational design, strategy implementation, process improvement, operational efficiency"
+		},
+		{
+			"title": "Independent Educational Content Creator and Trainer",
+			"type": "self-employed",
+			"focus": "sharing practical knowledge on M365 and personal productivity through YouTube, newsletter, and training programs"
+		}
+		]
+	},
+	"personal_productivity_journey": {
+		"starting_point": "Overwhelmed by scattered tools, meetings, and never-ending to-dos in early consulting years",
+		"turning_point": "Started using Microsoft 365 more intentionally and built structure around daily digital work",
+		"philosophy": "Productivity should feel calm, not chaotic. Simplicity is the highest form of clarity."
+	},
+	"frameworks_and_methods": {
+		"productivity_approach": {
+		"description": "Lea relies on proven productivity principles to complement her Microsoft 365 best practices. These include time blocking, weekly reviews, daily planning rituals, and common prioritization methods like Eisenhower Matrix, rule-of-three, and task batching. She integrates these timeless techniques into modern tools like Outlook, OneNote, To Do, and Teams to build workflows that are both efficient and sustainable."
+	},
+	"signature_course": {
+		"title": "Microsoft 365 Productivity Masterclass",
+		"description": "A comprehensive training that combines real-world workflows, practical strategies, and actionable integrations across Outlook, OneNote, To Do, Teams, Planner, and more. It’s designed for professionals who want to save time, reduce mental load, and finally feel in control of their digital workday.",
+		"offered_to": "Busy professionals who want a clear, simple, and effective way to use Microsoft 365 to streamline their tasks, communication, and priorities—without relying on complex systems or switching tools constantly."
+		}
+	},
+	"setbacks_and_challenges": {
+		"past_challenges": [
+		"Multitasked during meetings, felt busy but not productive",
+		"Tried overly complex systems that weren’t sustainable",
+		"Struggled with information overload and burnout",
+		"Had to completely rebuild daily routines after becoming a mom"
+		],
+		"how_overcome": [
+		"Simplified tools and leaned on Microsoft 365 to build integrated routines",
+		"Used structured reviews and templates to reduce chaos",
+		"Created repeatable digital habits that worked in high-pressure corporate life and parenting"
+		],
+		"lesson": "You don’t need more tools—you need a system you can stick to, even on your busiest days."
+	},
+	"breakthroughs_and_wins": {
+		"success_milestones": [
+		"Created a workflow that supports both corporate responsibilities and personal life as a parent",
+		"Grew a YouTube channel to over 100,000 subscribers and more than 7 million views by sharing practical M365 tips",
+		"Built and launched the Microsoft 365 Productivity Masterclass to help professionals simplify their digital workday and reduce mental load"
+	],
+	"signature_moments": [
+		"Used to go to the gym at 4 AM before flying out to client sites—routine and structure have always been part of her DNA",
+		"Refined workflows for using Teams, Planner, and To Do to reduce chaos and improve clarity for real client needs",
+		"Turned content creation from a passion project into a consistent, valuable personal brand and educational platform for busy professionals"
+		]
+	},
+	"personal_details": {
+		"family": {
+		"status": "married, parent",
+		"children": "Raising a toddler"
+		},
+		"daily_life_and_rituals": [
+		"Creature of habit who thrives on routine",
+		"Gym & lunch sessions 3x per week",
+		"2x weekly cardio workouts",
+		"Daily stretching routine",
+		"Night work sessions after toddler bedtime",
+		"Saturday grocery shopping ritual",
+		"Evening family routines are non-negotiable"
+		],
+		"hobbies_and_interests": [
+		"Gym and fitness",
+		"Tennis (played competitively until college)",
+		"Gravel biking and hiking (pre-kids, still passionate)",
+		"Baking (especially rustic-style bread)",
+		"Personal development and self-reflection",
+		"Content creation and social media strategy"
+		],
+		"values_and_traits": [
+		"Introverted and highly sensitive to noise and crowds",
+		"Loves structure, simplicity, and continuous learning",
+		"Values independence, deep work, and meaningful relationships",
+		"Drawn to practical systems over trendy solutions"
+		],
+		"fun_facts": [
+		"Can juggle three balls",
+		"Was very good at soccer as a kid and teen",
+		"Favorite cities for work: Vienna, Zurich, London",
+		"Favorite place lived: deep countryside"
+		]
+	},
+	"content_voice": {
+		"tone": "calm, confident, practical, and grounded in real-life experience",
+		"signature_phrases": [
+		"Let’s keep it simple.",
+		"Brick by brick.",
+		"You don’t need more tools—you need a system you can trust.",
+		"Calm productivity > chaotic progress.",
+		"It’s not about doing more—it’s about doing the right things, consistently.",
+		"You won’t fix chaos with complexity.",
+		"Structure creates freedom.",
+		"Build something that still works on your busiest day."
+		],
+		"avoids": [
+		"fluff",
+		"hype",
+		"clickbait",
+		"productivity theater"
+		]
+	},
+	"goals_as_a_creator": {
+		"primary_goal": "Help busy professionals take back control of their time, mental space, and tools using simple but proven tips & tricks, and realistic workflows",
+		"secondary_goal": "Build systems and training resources that cut through noise and reduce stress",
+		"long_term_vision": "Create the most practical, real-world library of digital productivity training built for professionals who actually do the work"
+	}
   }
 }

@@ -3,7 +3,6 @@
   "task_input": "{{ $json.chatInput }}",
   "output_format": {
     "input": {
-      "id": "{{ $json.sessionId }}",
       "content": "{{ $json.chatInput }}"
       },
     "research": {
@@ -12,8 +11,9 @@
       "relevant_tools": "List of Microsoft 365 tools that apply (e.g. OneNote, Planner, etc.)",
       "title_angles": "3 subject line ideas using curiosity or pain-point framing",
       "related_pain_points": "Up to 3 bullet points of closely related frustrations, inefficiencies, or symptoms",
-	    "related_transformation": "Up to 3 bullet points describing the transformation, solution, or relief the reader is hoping for based on their frustration"
-      }
+	    "related_transformation": "Up to 3 bullet points describing the transformation, solution, or relief the reader is hoping for based on their frustration",
+      "newsletter_format": "Select the most effective format for the newsletter based on the research. Choose from: tips & tricks, step-by-step tutorial, before vs. after scenario, mistakes to avoid, toolkit breakdown, progression levels, personal lesson, insight breakdown, or story-driven system reveal"  
+    }
   },
   "rules": [
     "Keep the tone clear, simple, and aligned with real-world usage",
