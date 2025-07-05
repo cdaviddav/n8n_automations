@@ -12,7 +12,6 @@
   },
   "output_format": {
     "input": {
-      "id": "{{ $json.output.input.id }}",
       "content": "{{ $json.output.input.content }}"
     },
     "newsletter": {
