@@ -1,5 +1,5 @@
 {
-  "task": "Write a short, high-converting newsletter subject line for a weekly productivity-focused newsletter targeting busy professionals who use Microsoft 365, based on the information from task_input",
+  "task": "Write 3 short, high-converting subject line options for a weekly productivity-focused newsletter targeting busy professionals who use Microsoft 365. Base them on the task_input.",
   "task_input": {
     "content": "{{ $json.output.input.content }}",
     "topic_summary": "{{ $json.output.research.topic_summary }}",
@@ -15,7 +15,11 @@
       "content": "{{ $json.output.input.content }}"
     },
     "newsletter": {
-      "newsletter_title": "newsletter subject line"
+      "title_options": [
+        "Option 1",
+        "Option 2",
+        "Option 3"
+      ]
     }
   },
   "rules": [
@@ -31,6 +35,7 @@
     "Avoid unnecessary punctuation like exclamation marks or all caps.",
     "Use verbs and specific language to signal transformation or outcome.",
     "Whenever possible, tie the subject line to a story or takeaway from the newsletter.",
-    "If relevant, mirror the phrasing of high-performing YouTube video titles or headlines used in the past."
+    "If relevant, mirror the phrasing of high-performing YouTube video titles or headlines used in the past.",
+    "Return all options as a JSON array under `title_options`."
   ]
 }
