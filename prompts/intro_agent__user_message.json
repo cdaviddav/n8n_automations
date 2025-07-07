@@ -15,7 +15,11 @@
       "content": "{{ $json.output.input.content }}"
     },
     "newsletter": {
-      "newsletter_introduction": "introduction for a newsletter"
+      "intro_options": [
+        "intro_option_1",
+        "intro_option_2",
+        "intro_option_3"
+      ]
     }
   },
   "structure": [

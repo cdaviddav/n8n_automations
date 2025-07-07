@@ -1,5 +1,5 @@
 {
-  "task": "Write the full body section of the newsletter. Based on the provided research, title, and introduction, determine the most suitable content structure—such as tips & tricks, step-by-step tutorial, before vs. after, mistakes to avoid, toolkit breakdown, progression levels, personal story with a takeaway, or insight breakdown. Your job is to select the best format that delivers the promised value and fits the reader’s mindset.",
+  "task": "Write 3 different version of the body section of the newsletter. Based on the provided research, title, and introduction, determine the most suitable content structure—such as tips & tricks, step-by-step tutorial, before vs. after, mistakes to avoid, toolkit breakdown, progression levels, personal story with a takeaway, or insight breakdown. Your job is to select the best format that delivers the promised value and fits the reader’s mindset.",
   "task_input": {
     "content": "{{ $json.output.input.content }}",
     "topic_summary": "{{ $json.output.research.topic_summary }}",
@@ -15,7 +15,11 @@
       "content": "{{ $json.output.input.content }}"
     },
     "newsletter": {
-      "newsletter_text_body": "Formatted sections with H2 or bolded titles, short paragraphs, and bullets where helpful"
+      "body_options": [
+        "body_option_1",
+        "body_option_2",
+        "body_option_3"
+      ]
     }
   },
   "instructions": [
