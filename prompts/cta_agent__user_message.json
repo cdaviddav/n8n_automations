@@ -3,7 +3,7 @@
   "task_goal": "Help the reader see the Masterclass as the next logical step to build on what they just learned. Make the CTA short, calm, and topic-specific—framed as a helpful next step, not a sales pitch.",
   "example": "P.S. Want to organize your Outlook in a way that actually works? The Microsoft 365 Productivity Masterclass gives you the full setup—calendar, email triage, and task capture, all streamlined. [Join here →]",
   "task_input": {
-    "newsletter_text_solution": "{{ $json.output.newsletter.newsletter_text_solution }}"
+    "newsletter_text_body": "{{ $json.output.newsletter.newsletter_text_body }}"
   },
   "output_format": {
     "input": {
