@@ -16,9 +16,9 @@
     },
     "newsletter": {
       "title_options": [
-        "Option 1",
-        "Option 2",
-        "Option 3"
+        "title_option_1",
+        "title_option_2",
+        "title_option_3"
       ]
     }
   },
