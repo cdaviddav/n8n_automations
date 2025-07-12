@@ -10,7 +10,7 @@
     "related_transformation": "{{ $json.output.research.related_transformation }}",
     "newsletter_format": "{{ $json.output.research.newsletter_format }}"
   },
-  "output_format": {
+  "output_format as JSON": {
     "input": {
       "content": "{{ $json.output.input.content }}"
     },
@@ -26,5 +26,8 @@
     "Start with a bold statement, question, or emotionally resonant observation that reflects a specific pain point, insight, or curiosity gap your reader will immediately recognize.",
     "Follow with a short, relatable anecdote, real-world scenario, or moment of empathy that shows you understand their experience and makes the email feel personal and grounded.",
     "End with a clear and compelling bridge: hint at what’s coming next (a solution, tip, framework, or surprising result) to give the reader a strong reason to keep reading."
+  ],
+  "rules": [
+    "Return the result as JSON"
   ]
 }

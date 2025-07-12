@@ -5,7 +5,7 @@
   "task_input": {
     "newsletter_text_body": "{{ $json.output.newsletter.newsletter_text_body }}"
   },
-  "output_format": {
+  "output_format as JSON": {
     "input": {
       "content": "{{ $json.output.input.content }}"
     },
@@ -20,5 +20,8 @@
     "Use a calm, confident, and conversational tone",
     "Avoid hype, urgency tricks, or filler phrases",
     "Keep it to 1–2 sentences max and end with the course link"
+  ],
+  "rules": [
+    "Return the result as JSON"
   ]
 }

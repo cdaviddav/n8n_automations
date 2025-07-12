@@ -10,7 +10,7 @@
     "related_transformation": "{{ $json.output.research.related_transformation }}",
     "newsletter_format": "{{ $json.output.research.newsletter_format }}"
   },
-  "output_format": {
+  "output_format as JSON": {
     "input": {
       "content": "{{ $json.output.input.content }}"
     },
