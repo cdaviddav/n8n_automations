@@ -1,7 +1,7 @@
 {
   "task": "Research the following topic for use in a productivity newsletter",
   "task_input": "{{ $json.chatInput }}",
-  "output_format": {
+  "output_format as JSON": {
     "input": {
       "content": "{{ $json.chatInput }}"
       },
