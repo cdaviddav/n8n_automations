@@ -6,3 +6,14 @@ Things to improve in prompts:
 3. include json with background of Lea David (for storytelling) --> reference in title, intro, and body
 
 
+v2 newsletter - Meeka feedback
+
+- don't include "you're not alone" or "do you know the feeling" or similar in the intro
+- intro nur max 5 sentences, better less, keep it short and precise, value the reader's time
+- h2 and h3 headlines ideally max 55 characters, short and precise, not too wordy or complex
+- body: don't start a sentence with "many professionals" since it's too generic and not reader-centric
+- bullet lists: min 3 bullets, never less, potentially more (but sticking to the rule of three is always a good idea)
+- if a specific step or tip is suggested in a M365 tool, dont't be generic. Always describe the step in detail so the reader exactly knows what to click or do and how to implement this tip in the tool, and why that makes sense.
+- always include a greeting at the end of the newsletter that fits to Lea David's personality
+- before the greeting, include a concluding sentence that, e.g., concludes the topic precise and sharp, asks the reader to reply/share their experience or opinion/includes a personal note
+- never include two calls-to-action at the end of the newsletter. always include one call-to-action at the end of the newsletter, after the greeting, starting with P.S.

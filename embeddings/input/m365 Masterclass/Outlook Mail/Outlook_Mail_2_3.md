@@ -1,0 +1,14 @@
+---
+tool: Outlook
+title: Streamline Your Workflow: Customize & Reposition Outlook’s Navigation Bar
+---
+# Streamline Your Workflow: Customize & Reposition Outlook’s Navigation Bar
+To conclude on the Outlook Email Interface, let’s take a closer look at the Navigation Bar—the small but essential menu that lets you switch between Mail, Calendar, Contacts, and other Outlook features.
+Most professionals don’t think much about the Navigation Bar, but its default setup isn’t always efficient. If you frequently switch between different apps or if the bar feels awkwardly placed, it can slow you down. The good news is that Outlook lets you customize and reposition it, so your most-used tools are always within easy reach. 
+
+First, let’s check where your Navigation Bar is located. In newer versions of Outlook, it’s positioned on the left side of the window, aligning it with other Microsoft 365 apps. If you prefer the classic look with the bar at the bottom, you can move it back. Click on File, then Options, and go to Advanced. Scroll. At the very top you find the "Show Apps in Outlook" option to uncheck it. Click OK and restart Outlook, and the Navigation Bar will return to the bottom. For now, however, I’ll keep it on the left.
+Now, let’s customize what appears in the Navigation Bar so it better fits your workflow. If you primarily use Mail, Calendar, and Tasks but rarely open Contacts, Notes, or other apps, you can simplify the menu by removing what you don’t need. Right-click on any app you want to remove and select Unpin. You can do this for all apps you don’t use regularly. If you ever want to add them back, click on the bottom icon with the four squares, select the app you need, and once it appears in the Navigation Bar, right-click it and choose Pin to keep it in place.
+
+You can also reorder your apps to keep your most-used sections within easy reach. Right-click on any app and move it up or down in the list. Personally, I always keep Mail, Calendar, and To Do at the top and visible since I switch between them constantly. I unpin less-used sections like Contacts and Notes so they don’t take up space or distract me while working. Let’s also use this setup for the next lessons so make sure you have Outlook Mail, Calendar and ToDo pinned. 
+If you want to navigate even faster, you can use keyboard shortcuts instead of clicking. Press Ctrl + 1 to go to your first pinned app, usually Mail. Ctrl + 2 jumps to the second pinned app, typically Calendar, and Ctrl + 3 takes you to the third, such as Tasks or Contacts. This is one of the fastest ways to switch between sections without breaking your workflow.
+With your Navigation Bar streamlined, switching between sections is faster and more efficient. Now that Outlook is set up to work for you, it’s time to focus on writing and managing professional emails—which we’ll cover in the next chapter.

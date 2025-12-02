@@ -1,0 +1,12 @@
+---
+tool: Outlook
+title: Time It Right: Schedule Emails with Delayed Send
+---
+# Time It Right: Schedule Emails with Delayed Send
+In this video, let’s explore how scheduling emails or adding a slight delay can prevent mistakes, reduce unnecessary follow-ups, and ensure your messages land at the most effective time. Whether you’re working outside business hours, need to follow up at the right moment, or want to respect different time zones, this feature helps you stay in control of your email timing without extra effort.
+To schedule an email, open a new message, compose your email as usual, then go to the Options tab and click Delay Delivery. In the pop-up window, check Do not deliver before, then select the date and time you want the email to be sent. Click Close, then hit Send—the email will stay in your Outbox until the scheduled time.
+
+If you need to edit or cancel a scheduled email, go to your Outbox, open the email, and either adjust the delivery time or delete the message if you no longer need to send it. Keep in mind that Outlook must be open and connected to the internet at the scheduled time for the email to be sent. If your device is offline, the message will be sent as soon as you're back online.
+Now, if you want to delay all outgoing emails by default, you can set up a rule to hold emails for a set period, allowing you to catch mistakes before they are sent. Go to File > Manage Rules & Alerts, click New Rule, and select Apply rule on messages I send. Click Next, leave conditions blank, and click Yes when prompted. Then, check Defer delivery by a number of minutes, set it to one minute, and click Finish. From now on, every email you send will sit in your Outbox for that duration before being delivered—giving you a built-in safety net for last-minute edits.
+
+Personally, I also use a rule that delays every email I send by one minute. Of course, there are rare moments when I need to send something instantly—like sharing a document during a live meeting—but 99% of the time, this small delay has been incredibly useful. It gives me a moment to catch typos, add forgotten attachments, or rethink a message before it’s too late. If I ever have second thoughts, I can simply go to my Outbox, review the email, and make any last-minute adjustments before it actually goes out.

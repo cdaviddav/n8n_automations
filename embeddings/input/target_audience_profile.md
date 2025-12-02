@@ -1,0 +1,95 @@
+# Target Audience Overview
+
+## 🧍 General Description
+
+Busy and seasoned professionals, primarily male, aged **25–50**, based in the **US, UK, Canada, Australia, DACH region**, and other developed countries.
+
+They typically hold **mid- to senior-level roles**—such as managers, team leads, consultants, or freelancers—and work in **corporate or hybrid environments** where Microsoft 365 (especially **Outlook, OneNote, Teams, To Do, Planner, Loop**) is used daily.
+
+These professionals are tech-comfortable but underusing their tools. They feel:
+
+- Overwhelmed by emails, tasks, meetings, and messages  
+- Busy all day but not making real progress  
+- Frustrated with scattered, inefficient digital workspaces  
+- Unsure how to optimize their current setup
+
+Ultimately, they want to **save time**, **reduce stress**, and **feel in control**—so they can focus on meaningful, career-driving work.
+
+---
+
+## 💡 Key Needs
+
+- Clear organization for their digital workday  
+- A simple, integrated system for managing emails, tasks, and notes  
+- Confidence in using Microsoft 365 tools effectively  
+- Tactical, no-fluff, immediately useful advice  
+- Reduced digital clutter and mental overload  
+- Better focus, consistency, and control  
+- A dependable system they can trust—even under pressure  
+- Step-by-step improvements to shift from reactive to proactive work  
+- More time and energy for high-impact tasks  
+- Long-term career support via better digital habits
+
+---
+
+## 🚧 Common Problems
+
+- Flooded by emails and meetings  
+- Scattered notes, tasks, and tools  
+- Time wasted on manual, repetitive processes  
+- Only using surface-level features of Microsoft 365  
+- Always reacting instead of planning ahead  
+- Lack of structure for task and priority management  
+- Ending days feeling mentally drained and unproductive  
+- Struggling to integrate Outlook, OneNote, and Planner  
+- Losing track of information and wasting energy context switching  
+- Feeling like their tools work against them  
+- Overwhelmed by too many options, lacking a single place of control
+
+---
+
+## 👥 Personas
+
+### 👨 Alex, 38  
+**Role**: Operations Manager at a Global Manufacturing Firm  
+**Region**: US Midwest (Chicago-based)  
+**Work Environment**: Hybrid (3 days office / 2 days remote)  
+**Tech Proficiency**: Comfortable but self-taught; rarely uses advanced features  
+**Daily Tools**: Outlook, Teams, Microsoft To Do, OneNote
+
+**Pain Points**:
+- Starts each day buried in email triage  
+- Constant context switching between meetings and tasks  
+- Notes scattered across sticky notes, OneNote, and chats  
+- Feels like he’s just surviving, not progressing  
+- Knows Outlook and Teams have useful features but doesn’t know how to start
+
+**Goals**:
+- Be “on top of things” by 10 a.m.  
+- Build a repeatable, low-stress workflow  
+- Connect email, meetings, and tasks reliably  
+- Get step-by-step, practical guidance  
+- Mentor his team in better digital habits
+
+---
+
+### 👩 Nina, 43  
+**Role**: Independent Consultant – Organizational Development  
+**Region**: Germany (works internationally in English)  
+**Work Environment**: Highly mobile, often at airports and client sites  
+**Tech Proficiency**: Above average; loves hacks but gets overwhelmed  
+**Daily Tools**: Outlook, OneNote, Microsoft To Do, Planner, Loop
+
+**Pain Points**:
+- Workflow feels scattered without a central dashboard  
+- Inconsistent task/note tracking while traveling  
+- Prepares client work last-minute due to weak planning  
+- Wishes Microsoft 365 felt more integrated  
+- Doesn’t want to waste hours setting up systems
+
+**Goals**:
+- Build a light, structured system that works from anywhere  
+- Minimize time spent managing tools  
+- Use repeatable, minimalist workflows for planning and follow-up  
+- Loves checklists and real-world examples  
+- Appreciates advice from fellow experts with lived experience

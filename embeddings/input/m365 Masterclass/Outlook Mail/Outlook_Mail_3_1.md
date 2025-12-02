@@ -1,0 +1,16 @@
+---
+tool: Outlook
+title: Craft Professional Emails: Fix Mistakes & Master Formatting, Links, and Tables
+---
+# Craft Professional Emails: Fix Mistakes & Master Formatting, Links, and Tables
+First, let me show you how to write emails that not only look professional but also help you communicate clearly and achieve your goals faster. Even though most professionals send dozens of emails every day, many struggle with formatting, which can lead to confusion, wasted time, or even a bad impression. The good news is that with a few simple tweaks, you can ensure your emails are polished, easy to read, and get the response you need. Let’s dive in.
+
+Let’s start with fixing formatting issues. If you ever copy and paste text into an email and the formatting looks off, look for the small "Paste Options" icon that appears having pasted the text. Click it and choose "Keep Text Only" to remove any unwanted styles. If you want to reset the formatting of text you’ve already typed, highlight it and press Ctrl + Spacebar. This resets everything to the default Outlook style, which is great for getting rid of random font changes or spacing issues.
+
+Now, let’s talk about another common use case in email communication, sharing professional-looking links. Instead of pasting long, messy URLs into your email, you can insert clean hyperlinks. Highlight the text you want to turn into a link, then press Ctrl + K or go to the insert tab and insert link. A window will pop up where you can paste the URL. This keeps your email looking polished and makes it easier for the recipient to click through. If you’re linking to a shared document in OneDrive or SharePoint, make sure the permissions are set correctly before sending the email. There's nothing worse than someone replying with, "I don’t have access."
+
+If you need to include a table, Outlook lets you create and format them directly in your email. Click on the Insert tab at the top, then select Table. Drag to choose the number of rows and columns you need, and Outlook will insert a simple table into your message. If the table looks too cramped, click inside it, go to the Table Layout tab, and adjust the column width or cell padding. If you’re copying a table from Excel, always use the "Match Destination Formatting" option when pasting to keep it looking clean and in line with the remainder of the email. 
+
+Once your email is ready, there is one final thing to check: grammar and spelling! Nothing undermines a professional email faster than typos or grammatical mistakes. Outlook has a built-in spell checker to help catch errors before you hit send. To enable automatic spell check, go to File, select Options, then click on Mail. Under the "Compose Messages" section, check the box that says "Always check spelling before sending." This ensures Outlook runs a quick spell check every time you send an email. If you want to check for mistakes as you type, right-click any underlined word to see suggested corrections. Personally, I always have this enabled because even small typos can make an email look careless.
+
+Now that your emails are well-formatted and polished, it’s time to add a professional touch with a well-crafted signature. In the next video, we’ll cover how to set up and manage your email signature.

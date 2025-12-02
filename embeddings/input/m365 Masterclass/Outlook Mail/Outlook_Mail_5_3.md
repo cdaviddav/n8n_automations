@@ -1,0 +1,19 @@
+---
+tool: Outlook
+title: Prioritize Smarter: Use Categories & Flags to Track Key Emails
+---
+# Prioritize Smarter: Use Categories & Flags to Track Key Emails
+Let’s further improve your email management by prioritizing emails effectively. Even with rules keeping your inbox organized, important messages can still get lost in the mix. The challenge isn’t just sorting emails—it’s making sure you can quickly spot, track, and follow up on the ones that matter most.
+
+That’s where Categories and Flags come in. Categories help you visually group emails by a certain color assigned to a project, urgency, or type, making it easier to scan your inbox. Flags turn emails into actionable tasks, ensuring you never miss a follow-up or deadline. Used together, they create a simple but powerful system to stay on top of your most important emails.
+
+Before we dive into the details, there's one thing to note: Categories in Outlook are only available for Microsoft Exchange accounts. If you’re using a Gmail account connected via IMAP, the Categories feature won’t be available. You can still use Flags to mark and prioritize emails, but keep in mind that the flagging functionality is also more limited compared to what’s available with an Exchange account.
+
+Let’s start with Categories. Open your inbox, right-click an email, and select Categorize or click categorize in the home tab on top. If you haven’t used categories before, Outlook provides default color labels, but you can customize them. Click All Categories, then Rename to give them meaningful names like “Urgent,” “Follow-Up,” or project-specific labels. 
+Personally, I use Categories to quickly identify different types of emails and calendar events at a glance. I categorize external emails, internal discussions, personal messages, and learning-related content, and I also distinguish between recruiting, travel, and dedicated work blocks. Once a category is applied, a small colored badge appears in the email list and at the top of the email in the Reading Pane, making it easy to spot important messages. These same labels also apply to your calendar, allowing you to organize meetings with the same system—helping you visually group related topics and track priorities effortlessly.
+
+Now, let’s talk about Flags. If an email requires action, right-click it and choose Follow Up, or simply click the small flag icon that appears when you hover over the message in your inbox. You can pick a suggested due date like Today or Tomorrow, or set a Custom Date if needed. The flagged email will stay in your inbox but also appear in your To-Do List in the Tasks pane, helping you keep track of what still needs attention. 
+You can mark a flagged email as complete by simply clicking the red flag again, which will turn it into a green checkmark. Alternatively, right-click the task in the To-Do Bar and select Mark Complete to clear the flag once the follow-up is done.
+ 
+But the real power of flags is that they don’t just stay in Outlook. If you're using a Microsoft 365 account, any email you flag in Outlook is automatically synced with Microsoft To Do and even Planner. That means you can manage your flagged emails as tasks across all three tools without needing to copy or forward anything manually.
+How to do that is explained in more detail in the next video. But no matter what, for maximum efficiency, use both tools – categories and flags - together. For example, categorize emails by topic and flag them for action—this way, you’ll easily see both what needs attention and when. Once you’ve handled an email, simply clear the flag or mark it as complete to keep your inbox clean and focused.

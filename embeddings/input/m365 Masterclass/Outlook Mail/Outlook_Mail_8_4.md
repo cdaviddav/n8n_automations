@@ -1,0 +1,10 @@
+---
+tool: Outlook
+title: Track with Confidence: Use Read Receipts Wisely
+---
+# Track with Confidence: Use Read Receipts Wisely
+In this video, let’s talk about how read receipts and delivery receipts can help you track important emails without following up unnecessarily. Whether you're waiting for a response, sharing time-sensitive information, or need confirmation that your message was received, Outlook gives you tools to stay informed—if you use them selectively and thoughtfully.
+To request a read or delivery receipt, open a new email, go to the Options tab, and check the boxes for Request a Delivery Receipt or Request a Read Receipt. A delivery receipt will notify you when the message reaches the recipient’s server, while a read receipt will try to confirm when the message is opened. But keep in mind that recipients can choose to decline read receipts, so it’s not always a guarantee.
+
+If you want to apply this to all emails automatically, go to File > Options > Mail, scroll down to the Tracking section, and choose whether to request receipts for every message you send. Personally, I don’t recommend enabling it by default—it can feel a bit intrusive and quickly become overwhelming. Instead, I suggest only turning it on manually for very specific cases where you really need confirmation. That said, keep in mind that recipients can choose to decline read receipts, so in practice, the value is often limited. If it’s something urgent or critical, I usually just follow up directly with a quick message on Teams to check if it arrived. It’s faster, clearer, and usually more effective.
+Also, don’t forget that not all organizations allow read receipts, especially in corporate settings, where privacy settings might block them. So while it’s a helpful feature, it’s best to use it intentionally and with the right expectations.
